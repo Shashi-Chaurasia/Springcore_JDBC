@@ -12,6 +12,9 @@ public interface StudentDao {
 	public Student getStudent(int studentId); 
 	
 	public List<Student> getAllStud();
+	
+	
+	
 		
 	
 
